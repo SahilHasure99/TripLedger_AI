@@ -1,0 +1,9 @@
+{
+  "origin": "New York",
+  "destination": "Tokyo",
+  "start_date": "2026-11-01",
+  "end_date": "2026-11-07",
+  "budget": 3000,
+  "travelers": 2,
+  "preferences": ["food", "museums", "nightlife"]
+}
